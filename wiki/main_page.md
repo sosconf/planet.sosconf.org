@@ -2,7 +2,8 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+Planet sosconf is a wiki site for hosting sosconf basic information.
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+ - For main site, just visit this [link](http://sosconf.org/contact)
+ - For latest news, please visit [sosconf news](http://sosconf.org/news)
 
